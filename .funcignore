@@ -1,0 +1,7 @@
+.venv
+tests
+sql
+local.settings.json
+local.settings.sample.json
+.pytest_cache
+__pycache__

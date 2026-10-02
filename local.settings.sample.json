@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SQL_CONNECTION_STRING": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:localhost,1433;Database=HrCompensation;Uid=sa;Pwd=<your-password>;Encrypt=yes;TrustServerCertificate=yes;",
+    "DEFAULT_BONUS_RATE": "0.05"
+  }
+}
